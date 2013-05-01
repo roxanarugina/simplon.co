@@ -1,0 +1,81 @@
+!!!
+%html
+  %head
+    %title Simplon.co, fabrique de codeurs entreprenants
+    %link{:href => "http://fonts.googleapis.com/css?family=Inconsolata:400,700", :rel => "stylesheet", :type => "text/css"}/
+    %meta{:charset => "utf-8"}/
+    :css
+      body {
+        margin: 30px auto;
+        width: 760px;
+        font-family: 'Inconsolata', sans-serif;
+        font-size: 24px;
+        line-height: 1.3;
+      }
+      .intro {
+        padding-bottom: 30px;
+        margin-bottom: 30px;
+        border-bottom: 3px dotted black;
+      }
+      .tags {
+        overflow: hidden;
+      }
+      .tag {
+        display: inline-block;
+        background: black;
+        padding: 10px;
+        margin-bottom: 10px;
+        color: white;
+      }
+      img {
+        width: 100%;
+      }
+      p {
+        margin-bottom: 15px;
+      }
+      div {
+        margin-bottom: 20px;
+      }
+      a {
+        border-bottom: 1px solid rgb(0, 0, 238);
+        padding-bottom: 2px;
+        text-decoration: none;
+      }
+    :javascript
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-39912989-1']);
+      _gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+  %body
+    %header
+      %p.intro
+        %span.logo Simplon.co
+        est une fabrique de codeurs entreprenants. Tous les 5 mois, nous accompagnons 24 jeunes issues de milieux défavorisés dans l'apprentissage de la programmation, et nous les aidons à monter des startups web.
+    %h2 Quoi ?
+    %p.tags
+      %span.tag #dojo
+      %span.tag #education
+      %span.tag #entrepreneurship
+      %span.tag #empowerment
+      %span.tag #ruby
+    %h2 Ou ?
+    A Montreuil, dans une ancienne fabrique de latex, que nous sommes en train d'aménager en ce moment même :).
+    .team
+      :markdown
+        Qui ?
+        -----
+
+        Andrei Vladescu-Olt ([@andreivolt](//twitter.com/andreivolt)), Erwan Kezzar ([@erwankezzar](//twitter.com/erwankezzar)), Frédéric Bardeau ([@fbardeau](//twitter.com/fbardeau)) & Victor Defontaine
+    %h2 Les nouvelles
+    %a.twitter-timeline{"data-widget-id" => "328855688833015808", :href => "https://twitter.com/simplonco"} Tweets by @simplonco
+    :javascript
+      !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+    %h2 Contact
+    %a{:href => "mailto:inbox@simplon.co"} inbox@simplon.co
+    06.23.04.66.63
+    %a{:href => "//twitter.com/simplonco"} @simplonco
+    %a{:href => "//simplonco.tumblr.com"} Tumblr
