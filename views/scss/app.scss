@@ -1,0 +1,119 @@
+@import "settings";
+@import "foundation";
+@import "compass/css3/box-shadow";
+
+body {
+	margin: $column-gutter/2;
+	margin-top: $column-gutter;
+}
+.intro[lang="fr"] {
+	font-size: 24px;
+	border-bottom: 1px solid hsl(0,0%,90%);
+	padding-bottom: $column-gutter/2;
+	font-size: emCalc(24px);
+	margin-bottom: $column-gutter/2
+}
+
+.logo {
+	background:hsl(0,0%,20%);
+	padding:.5em;
+	margin-left: -.5em;
+	color:white;
+}
+
+#team {
+	background: hsl(5,5%,94%);
+	border: 1px solid hsl(5,5%,86%);
+	img, .placeholder {
+		margin-bottom: .5em;
+	}
+}
+
+#apply, #team, #social {
+	margin-bottom: $column-gutter;
+}
+.name {
+	height:2.5em;
+	font-weight:bold;
+}
+
+
+#highlights {
+	background: hsl(10,50%,40%);
+	padding: $column-gutter/2 0;
+	margin-bottom: $column-gutter*2;
+}
+#highlights >:nth-child(-n+3):after {
+	content: "+";
+	position: absolute;
+	right:-5px;
+	color:white;
+	font-size: 20px;
+	top: 100px;
+	text-shadow: 0 1px 0 rgba(0,0,0,.6);
+}
+#highlights >:nth-child(3):after{
+	content: "=>";
+	right:-11px;
+}
+#highlights >:last-child .highlight:after{
+	content:"";
+}
+.highlight {
+	position: relative;
+	background:hsl(5,5%,95%);
+	@include box-shadow(0 1px 0 rgba(0,0,0,.6));
+	padding:1em;
+	>:first-child {
+		margin:0;
+	}
+}
+
+#contact {
+	background: hsl(5,5%,94%);
+}
+
+.placeholder {
+	width:140px;
+	height:140px;
+	background: hsl(10,50%,40%);
+	position:relative;
+}
+.placeholder p {
+	top:40%;
+	position:absolute;
+	left:36%;
+	color:white;
+}
+
+.tags {
+	overflow: hidden;
+}
+.tag {
+	display: inline-block;
+	 background:hsl(0,0%,10%);
+	@include box-shadow(2px 2px 0 rgba(0,0,0,.1));
+	padding: 4px 8px;
+	margin-bottom: 10px;
+	color: white;
+}
+a {
+	border-bottom: 1px solid rgb(0, 0, 238);
+	padding-bottom: 2px;
+}
+.panel {
+	background: white;
+	margin-top: 1em;
+}
+
+#building p {
+	background: rgba(0,0,0,.8);
+	padding: 1em;
+	position: absolute;
+	top: 50%;
+	left: 10%;
+	color: white;
+}
+ul li {
+	border-bottom: 1px solid hsl(0,0%,70%);
+}
