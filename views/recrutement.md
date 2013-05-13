@@ -145,7 +145,7 @@ xxxx jours.
 
 C'est parti :
 
-  1. creez-vous un compte gratuit sur [Code School](http://www.codeschool.com/)
+  1. créez-vous un compte gratuit sur [Code School](http://www.codeschool.com/)
   2. passez les etapes, pas a pas, jusqu'a terminer les sessions 
   3. et bien sur, si vous voulez passer d'autres badges sur Code Schools, il y a d'autres formations que celles proposees ci-dessous. Cela ne peut que renforcer vos candidature ! [http://www.codeschool.com/courses](http://www.codeschool.com/courses)
 
