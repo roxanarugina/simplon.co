@@ -1,8 +1,10 @@
-*NB1 : cette page est vouée à évoluer en fonction des retours que nous recevrons, tant sur la forme que sur les étapes de candidature. Si vous avez des suggestions, nous sommes preneurs ! inbox@simplon.co*
+**NB :**
 
-*NB2 : si vous souhaitez candidater, inutile de nous contacter par mail ou par téléphone. Tout le monde doit être à égalité dans le cadre du recrutement, et passer les étapes décrites plus bas.*
+* cette page est vouée à évoluer en fonction des retours que nous recevrons, tant sur la forme que sur les étapes de candidature. [Si vous avez des suggestions, nous sommes preneurs !](mailto:inbox@simplon.co)
+* si vous souhaitez candidater, inutile de nous contacter par mail ou par téléphone. Tout le monde doit être à égalité dans le cadre du recrutement, et passer les étapes décrites plus bas.
 
-##Avant tout, quelques petits mots d'intro.
+Avant tout, quelques petits mots d'intro.
+-----------------------------------------
 
 **Simplon.co est une formation d'un nouveau genre, qui n'est pas une école à proprement parler.** Il s'agit davantage d'un "camp d'entraînement", comme les formations similaires aiment à le présenter dans d'autres pays (les "bootcamps").
 
@@ -18,10 +20,10 @@ Avant de poursuivre, voici une vidéo de présentation de DevBootCamp. L'ambianc
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/36FLX7RxERg" frameborder="0" allowfullscreen></iframe>
 
-
 Vous pouvez également consulter ce blog d'un éleve de DevBootcamp, qui raconte son expérience au sein de la formation jour après jour : [http://fabscode.tumblr.com/](http://fabscode.tumblr.com/)
 
-## Pourquoi faire Simplon.co ?
+Pourquoi faire Simplon.co ?
+---------------------------
 
 A Simplon.co, vous allez apprendre le développement web et la création d'entreprise de type "startup". Vous serez opérationnels sur des langages de programmation puissants, accessibles et agréables à utiliser et vous pourrez amener rapidement un produit ou un service sur le marché, et pourquoi pas en vivre. Et ce en 5 mois minimum.
 
@@ -39,13 +41,13 @@ Notre autre objectif est que ces projets qui seront les vôtres aient une utilit
 * les aider à l'acquisition de compétences
 * donner aux autres les moyens de s'organiser plus efficacement au quotidien (associations, réseaux locaux, troc, recyclage, entraide, etc.)
 * sensibiliser à des thématiques particulières (solidarité, environnement, santé/prévention, etc.) et donner les moyens d'agir concrètement
-* et bien d'autres 
+* et bien d'autres
 
 **En résumé, Simplon.co a trois objectifs :**
 
-  **1. en 5 mois, vous donner une réelle compétence, et la capacité a continuer à apprendre de manière autonome**
-  **2. faire de vous des entrepreneurs et vous accompagner dans vos projet, ou dans des projets que nous aurons conçus ensemble, et dont vous pourrez vivre**
-  **3. et ce en apportant une contribution positive au bien commun**
+1. en 5 mois, vous donner une réelle compétence, et la capacité a continuer à apprendre de manière autonome**
+2. faire de vous des entrepreneurs et vous accompagner dans vos projet, ou dans des projets que nous aurons conçus ensemble, et dont vous pourrez vivre**
+3. et ce en apportant une contribution positive au bien commun**
 
 ## Est-ce que Simplon.co est fait pour moi ?
 
@@ -68,7 +70,8 @@ Voici des critères qui justifieront votre candidature, et optimiseront votre ex
 * persévérance : lorsqu'on se confronte a un problème, ne pas abandonner jusqu'à avoir trouvé une solution
 * avoir l'esprit débrouillard : trouver des solutions alternatives aux problèmes, être un MacGyver du quotidien
 
-## Comment ça se passe pour postuler
+Comment ça se passe pour postuler
+---------------------------------
 
 Pour rejoindre la famille simplonienne, il y a deux grandes étapes.
 
@@ -80,9 +83,9 @@ Ci-dessous, deux écoles de code en ligne, gratuites, ou vous pourrez atteindre 
 
 C'est parti :
 
-  1. créez-vous un compte gratuit sur [Code School](http://www.codeschool.com/)
-  2. passez les étapes proposées ci-dessous, pas à pas, jusqu'à terminer les sessions 
-  3. et bien sûr, si vous voulez passer d'autres badges sur Code School, il y a d'autres formations gratuites que celles-ci. Cela ne peut que renforcer votre candidature ! [http://www.codeschool.com/courses](http://www.codeschool.com/courses)
+1. créez-vous un compte gratuit sur [Code School](http://www.codeschool.com/)
+2. passez les étapes proposées ci-dessous, pas à pas, jusqu'à terminer les sessions
+3. et bien sûr, si vous voulez passer d'autres badges sur Code School, [il y a d'autres formations gratuites que celles-ci](http://www.codeschool.com/courses). Cela ne peut que renforcer votre candidature !
 
 NB : parfois, tout ne va pas se passer exactement comme sur des roulettes, dans ces exercices. Ne vous inquiétez pas : vous n'êtes pas le/la seul(e). Tout développeur est confronté a ce genre de problèmes - et par extension tous les autres candidats :-)
 
@@ -94,10 +97,10 @@ Et si il y a des mots en anglais que vous ne comprenez pas, nul besoin de vous p
 
 ![http://tryruby.org/levels/1/challenges/0](https://dl.dropboxusercontent.com/u/53104239/simplonco/tryrybysmall.png)
 
-[http://tryruby.org/levels/1/challenges/0](http://tryruby.org/levels/1/challen
-ges/0)
+[http://tryruby.org/levels/1/challenges/0](http://tryruby.org/levels/1/challenges/0)
 
 **Rails for Zombies : obtenez le badge du level 1 :**
+
 ![http://railsforzombies.org/](https://dl.dropboxusercontent.com/u/53104239/simplonco/railszombiessmall.png)
 
 [http://railsforzombies.org/](http://railsforzombies.org/)
@@ -112,7 +115,7 @@ Dans la même vidéo, apprenez-nous quelque chose (quoi que ce soit), parlez nou
 
 #### 1.c. Le mail
 
-Sur recrutement@simplon.co, envoyez nous un mail contenant :
+Sur [recrutement@simplon.co](mailto:recrutement@simplon.co), envoyez nous un mail contenant :
 
 + le lien vers vos profils CodeSchool et vos badges
 + le lien vers votre vidéo, que vous aurez mise en ligne sur la plate-forme de votre choix
@@ -128,7 +131,8 @@ Ne vous inquiétez pas, il ne s'agira pas de faire des parcours du combattant ou
 
 Nous rencontrerons environ 70 candidats, et échangerons avec eux afin de mieux nous connaître, et d'approfondir sur ce qui sera fait à Simplon.co.
 
-## Comment cela va-t-il se passer au quotidien ?
+Comment cela va-t-il se passer au quotidien ?
+---------------------------------------------
 
 **Vous allez être la première promotion de Simplon.co, donc ce qui va suivre est une anticipation de ce que sera le rythme et l'ambiance au sein de la formation. Ce sera en grande partie vous qui déterminerez l'ambiance qui règnera, les projets qui auront cours, et les activités autour de la formation. Vous donnerez le cap ! :-)**
 
@@ -146,9 +150,10 @@ Quelques points pour mieux vous projeter :
 * lorsque vous serez fatigués, vous pourrez prendre un moment de détente dans un espace prévu à cet effet
 * vous pourrez faire des présentations de 20 minutes en moyenne lorsque vous en aurez envie, sur le thème de votre choix, et inviter les recrues qui veulent y assister (les "breakout sessions")
 * le matériel de travail vous sera fourni (Mac, Nexus 4, livres, etc.)
-* nous serons étroitement en contact et en collaboration avec la communauté Ruby - intervention en vidéo-conférence (mais aussi lors de passages a Paris) de développeurs des US et du monde entier, sessions de pair-programming a distance avec les apprentis d'autres bootcamps, intervention par vous dans le cadre d'événements et de vidéo-conférences, etc. Eh oui : devenir un hacker entreprenant, c'est aussi entrer dans une grande famille portée par tout en ensemble de passions et de valeurs :-) 
+* nous serons étroitement en contact et en collaboration avec la communauté Ruby - intervention en vidéo-conférence (mais aussi lors de passages a Paris) de développeurs des US et du monde entier, sessions de pair-programming a distance avec les apprentis d'autres bootcamps, intervention par vous dans le cadre d'événements et de vidéo-conférences, etc. Eh oui : devenir un hacker entreprenant, c'est aussi entrer dans une grande famille portée par tout en ensemble de passions et de valeurs :-)
 
-## Plus concrètement, quelle sera ma relation juridique à Simplon.co ?
+Plus concrètement, quelle sera ma relation juridique à Simplon.co ?
+-------------------------------------------------------------------
 
 Comme précisé plus haut, nous allons vous former, et vous serez très vite opérationnels pour travailler sur des projets. Prioritairement sur vos projets à vous.
 
@@ -161,5 +166,3 @@ Nous sommes encore en train de réfléchir et de trouver des solutions pour que 
 De fait, la priorité sera que vous travailliez le plus rapidement possible sur vos projets et entreprises personnelles, mais nous pourrons être amenés, ensemble, à réaliser des projets pour des entités externes (entreprises, associations, etc.).
 
 Bien sûr, notre objectif est de cadrer au maximum ces interventions afin qu'elles vous apportent le plus possible, et qu'elles correspondent à la vision globale de Simplon.co.
-
-
