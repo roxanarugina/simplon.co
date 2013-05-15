@@ -97,7 +97,7 @@ Et si il y a des mots en anglais que vous ne comprenez pas, nul besoin de vous p
 [http://tryruby.org/levels/1/challenges/0](http://tryruby.org/levels/1/challen
 ges/0)
 
-**Rails for Zombies : obtenez le badge du level 1 :
+**Rails for Zombies : obtenez le badge du level 1 :**
 ![http://railsforzombies.org/](https://dl.dropboxusercontent.com/u/53104239/simplonco/railszombiessmall.png)
 
 [http://railsforzombies.org/](http://railsforzombies.org/)
@@ -106,13 +106,9 @@ ges/0)
 
 Nous sommes certains que vous avez tout un tas de choses intéressantes à nous dire, et que votre motivation est a toute épreuve. Et aussi que vous avez envie de nous communiquer tout ça sous la forme la plus expressive possible.
 
-Prenez un appareil qui filme, même en mauvaise qualité, et expliquez-nous en quelques mots qui vous êtes, et pourquoi vous voulez faire la formation Simplon.co. 
+Prenez un appareil qui filme, même en mauvaise qualité, et expliquez-nous en quelques mots qui vous êtes, et pourquoi vous voulez faire la formation Simplon.co. **Durée : entre 1 min 30 et 2min. Langue : français.**
 
-**Durée : entre 1 min 30 et 2min. Langue : français.**
-
-Dans la même vidéo, apprenez-nous quelque chose, que ce soit la recette du tiramisu, comment déboucher un siphon ou comment se créer un compte Gmail. 
-
-**Durée : entre 1 min et 1 min 30. Langue : anglais.**
+Dans la même vidéo, apprenez-nous quelque chose, quoi que ce soit (la recette du tiramisu, comment déboucher un siphon, comment se créer un compte Gmail, etc.). **Durée : entre 1 min et 1 min 30. Langue : anglais.**
 
 #### 1.c. Le mail
 
