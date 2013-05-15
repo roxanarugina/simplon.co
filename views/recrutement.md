@@ -4,17 +4,17 @@
 
 ##Avant tout, quelques petits mots d'intro.
 
-**Simplon.co est une formation d'un nouveau genre, qui n'est pas une école à proprement parler.** Il s'agit davantage d'un "camp d'entraînement", comme les formations similaires aiment à le présenter dans d'autres pays (les"bootcamps").
+**Simplon.co est une formation d'un nouveau genre, qui n'est pas une école à proprement parler.** Il s'agit davantage d'un "camp d'entraînement", comme les formations similaires aiment à le présenter dans d'autres pays (les "bootcamps").
 
-**Un entraînement intensif, immersif, qui dure au moins 5 mois**, qui demandera d'être entièrement dévoué à l'apprentissage du développement web et des tours de magie qu'il vous permettra de réaliser dès les premiers jours.
+**Un entraînement intensif, immersif, qui dure au moins 5 mois**, qui vous demandera d'être entièrement dévoué à l'apprentissage du développement web et des "tours de magie" qu'il vous permettra de réaliser dès les premiers jours.
 
-**Un entraînement rémunéré (financé ou donnant lieu à une bourse) qui s'adresse prioritairement à ceux qui en ont le plus besoin** : en plus des étapes à passer pour candidater (décrites plus bas), d'autres critères seront pris en compte : situation financière et familiale, origine géographique (ZEP, localités parfois discriminantes sur un CV, zones rurales enclavées, etc.), et plus largement, profils socio-démographiques sous-représentés dans l'entreprenariat et les métiers du web (parité filles-garçons, seniors, handicap, etc. )
+**Un entraînement rémunéré (financé ou donnant lieu à une bourse) qui s'adresse prioritairement à ceux qui en ont le plus besoin** : en plus des étapes à passer pour candidater (décrites plus bas), d'autres critères seront pris en compte : situation financière, familiale et scolaire, origine géographique (ZEP/ZUP, zones rurales enclavées, etc.), et plus largement, profils socio-démographiques sous-représentés dans l'entreprenariat et les métiers du web (parité filles-garçons, seniors, handicap, minorités visibles, etc. )
 
 **Un entraînement aussi qui sera en grande partie construit par vous** : nous ne sommes pas vos professeurs. Nous sommes les guides qui vous donneront l'opportunité d'optimiser ce que vous pouvez apprendre par vous-même, en vous fournissant les meilleur confort de travail possible, en vous accompagnant heure après heure sur les difficultés que vous rencontrerez, mais surtout en vous faisant comprendre un peu plus chaque jour que vous êtes maîtres de votre destin, et que les grandes choses que le développement web vous permettront d'accomplir sont a portée de main ! C'est d'ailleurs pour que vous puissiez vous consacrer à 100% à l'aventure que nous sommes en train de mettre au point un système pour vous rémunérer autant que faire
 
-**Un entraînement aussi où l'une des priorités est que vous vous sentiez bien et que vous passiez un moment agréable.** D'expérience, nous pouvons vous garantir que les moments de découragement ne manqueront pas. Mais ils sont bien vite surmontés, laissant place a une nouvelle bouffée d'entrain et de motivation. Et ce notamment grâce à l'entraide constante qui caractérisera la formation. Vous ne serez pas concurrents les uns des autres mais plutôt une famille !
+**Un entraînement aussi où l'une des priorités est que vous vous sentiez bien et que vous passiez un moment agréable.** D'expérience, nous pouvons vous garantir que les moments de découragement ne manqueront pas. Mais ils sont bien vite surmontés, laissant place à une nouvelle bouffée d'entrain et de motivation. Et ce notamment grâce à l'entraide constante qui caractérisera la formation. Vous ne serez pas concurrents les uns des autres mais plutôt une famille !
 
-Avant de poursuivre, voici une vidéo de présentation de DevBootCamp. L'ambiance et le format de Simplon.co risquent fortement de ressembler a ceci:
+Avant de poursuivre, voici une vidéo de présentation de DevBootCamp. L'ambiance et le format de Simplon.co risquent fortement de ressembler a ceci :
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/36FLX7RxERg" frameborder="0" allowfullscreen></iframe>
 
@@ -29,22 +29,22 @@ Vous aurez donc une réelle compétence, très précieuse en ces temps de pénur
 
 **Mais le vrai objet de Simplon.co, au-dela d'acquérir une compétence technique et de gagner sa vie avec, c'est d'en faire les meilleures choses possibles. Tant pour vous que pour les autres.**
 
-En effet, en plus d'apprendre le code par la pratique, en travaillant sur des projets des les premières semaines, notre objectif est de vous permettre de travailler sur **vos** projets.
+En effet, en plus d'apprendre le code par la pratique, en travaillant sur des projets des les premières semaines, notre objectif est de vous permettre de travailler sur **vos** projets si vous en avez, et ce serait encore mieux si vous en aviez avant de postuler.
 
 Qu'il s'agisse de services web, d'applications, de plates-formes ou de projets dans la vie réelle fortement structuree par du numérique, nous allons vous apprendre comment vivre de ces projets en réduisant les risques au maximum, tout en vous accompagnant sur la conception de ces projets, sur leur développement, et sur leur financement.
 
-Notre autre objectif est que ces projet qui seront les vôtres aient une utilité pour l'intérêt général, et qu'ils participent du champ de l'éducation, au sens très large du terme. Il y a une multitude de problèmes a résoudre par des solutions "software". Plus que l'on peut s'imaginer. Quelques exemples tout de même :
+Notre autre objectif est que ces projets qui seront les vôtres aient une utilité pour l'intérêt général, et qu'ils participent du champ de l'éducation, au sens très large du terme, et qu'ils créent de la valeur. Il y a une multitude de problèmes à résoudre par des solutions "software". Plus que l'on peut s'imaginer. Quelques exemples tout de même :
 
-* aider les autres a acquérir des connaissances
-* les aider a l'acquisition de compétences
+* aider les autres à acquérir des connaissances
+* les aider à l'acquisition de compétences
 * donner aux autres les moyens de s'organiser plus efficacement au quotidien (associations, réseaux locaux, troc, recyclage, entraide, etc.)
-* sensibiliser à des thématiques particulières (solidarité, environnement, etc.)
+* sensibiliser à des thématiques particulières (solidarité, environnement, santé/prévention, etc.) et donner les moyens d'agir concrètement
 * et bien d'autres 
 
 **En résumé, Simplon.co a trois objectifs :**
 
-  **1. en 5 mois, vous donner une réelle compétence, et la capacité a continuer a apprendre de manière autonome**
-  **2. faire de vous des entrepreneurs et vous accompagner dans des projets que nous aurons conçus ensemble, et dont vous pourrez vivre**
+  **1. en 5 mois, vous donner une réelle compétence, et la capacité a continuer à apprendre de manière autonome**
+  **2. faire de vous des entrepreneurs et vous accompagner dans vos projet, ou dans des projets que nous aurons conçus ensemble, et dont vous pourrez vivre**
   **3. et ce en apportant une contribution positive au bien commun**
 
 ## Est-ce que Simplon.co est fait pour moi ?
@@ -59,11 +59,11 @@ La formation proposée par Simplon.co est intensive, immersive, très collaborat
 
 Voici des critères qui justifieront votre candidature, et optimiseront votre expérience au sein de Simplon.co :
 
-* avoir un niveau d'anglais confirmé (si vous réussissez l'étape 1., ça devrait convenir)
-* capacité a travailler en équipe, a bien communiquer, a bien faire comprendre aux autres ce que l'on a en tête
-* volonté d'aider les autres, a être à leur écoute, a comprendre les problèmes auxquels ils sont confrontés
-* capacité a expliquer des choses, a être pédagogue
-* être un "passionné" : être capable de s'intéresser a un sujet de manière intensive et approfondie
+* avoir un bon niveau d'anglais (si vous réussissez l'étape 1., ça devrait convenir) et on se fiche de savoir si vous l'avez acquis en écoutant de la musique, en regardant des séries ou en jouant à des jeux en réseau, mais c'est indispensable pour progresser vite dans la formation
+* capacité à travailler en équipe, à bien communiquer, à bien faire comprendre aux autres ce que l'on a en tête
+* volonté d'aider les autres, à être à leur écoute, a comprendre les problèmes auxquels ils sont confrontés
+* capacité à expliquer des choses, à être pédagogue
+* être un "passionné" : être capable de s'intéresser à un sujet de manière intensive et approfondie
 * curiosité, soif de connaissance, vouloir en savoir toujours plus, mais aussi savoir confronter différentes sources afin de juger de la qualité de ce qu'on trouve (esprit critique)
 * persévérance : lorsqu'on se confronte a un problème, ne pas abandonner jusqu'à avoir trouvé une solution
 * avoir l'esprit débrouillard : trouver des solutions alternatives aux problèmes, être un MacGyver du quotidien
@@ -81,7 +81,7 @@ Ci-dessous, deux écoles de code en ligne, gratuites, ou vous pourrez atteindre 
 C'est parti :
 
   1. créez-vous un compte gratuit sur [Code School](http://www.codeschool.com/)
-  2. passez les étapes proposées ci-dessous, pas a pas, jusqu'à terminer les sessions 
+  2. passez les étapes proposées ci-dessous, pas à pas, jusqu'à terminer les sessions 
   3. et bien sûr, si vous voulez passer d'autres badges sur Code School, il y a d'autres formations gratuites que celles-ci. Cela ne peut que renforcer votre candidature ! [http://www.codeschool.com/courses](http://www.codeschool.com/courses)
 
 NB : parfois, tout ne va pas se passer exactement comme sur des roulettes, dans ces exercices. Ne vous inquiétez pas : vous n'êtes pas le/la seul(e). Tout développeur est confronté a ce genre de problèmes - et par extension tous les autres candidats :-)
@@ -104,11 +104,11 @@ ges/0)
 
 #### 1.b. La vidéo
 
-Nous sommes certains que vous avez tout un tas de choses intéressantes à nous dire, et que votre motivation est a toute épreuve. Et aussi que vous avez envie de nous communiquer tout ça sous la forme la plus expressive possible.
+Nous sommes certains que vous avez tout un tas de choses intéressantes à nous dire, et que votre motivation est à toute épreuve. Et aussi que vous avez envie de nous communiquer tout ça sous la forme la plus expressive possible.
 
-Prenez un appareil qui filme, même en mauvaise qualité, et expliquez-nous en quelques mots qui vous êtes, et pourquoi vous voulez faire la formation Simplon.co. **Durée : entre 1 min 30 et 2min. Langue : français.**
+Prenez un appareil qui filme, même en mauvaise qualité, et expliquez-nous en quelques mots qui vous êtes, et pourquoi vous voulez faire la formation Simplon.co. **Durée : entre 1 min 30 et 2min. Langue : en français.**
 
-Dans la même vidéo, apprenez-nous quelque chose, quoi que ce soit (la recette du tiramisu, comment déboucher un siphon, comment se créer un compte Gmail, etc.). **Durée : entre 1 min et 1 min 30. Langue : anglais.**
+Dans la même vidéo, apprenez-nous quelque chose (quoi que ce soit), parlez nous de vos passions, de vos projets, de vos rêves et de la manière dont apprendre à coder pourrait vous permettre de les concrétiser. **Durée : entre 1 min et 1 min 30. Langue : en anglais.**
 
 #### 1.c. Le mail
 
@@ -117,23 +117,22 @@ Sur recrutement@simplon.co, envoyez nous un mail contenant :
 + le lien vers vos profils CodeSchool et vos badges
 + le lien vers votre vidéo, que vous aurez mise en ligne sur la plate-forme de votre choix
 + les informations suivantes :
-  + Prénom - Nom - Date de naissance - Adresse
-  + Avez-vous été boursier au cours de votre scolarité ?
-  + Etes-vous bénéficiaire d'une aide sociale ?
+  + Prénom - Nom - Date de naissance - Adresse - Diplômes et formations - Parcours professionnel (tout, les petits boulots aussi nous intéressent)
+  + Dites nous pourquoi vous pensez mériter ce genre de formation rémunérée ouverte principalement aux personnes défavorisées ? Avez-vous été boursier au cours de votre scolarité ? Etes-vous bénéficiaire d'une aide sociale ?
 
 ### 2. La rencontre au sommet :-)
 
-Un matin, en ouvrant votre boîte mail, vous constatez que les quelques jours de persévérance et de fun que vous avez passés a obtenir vos badges et à faire votre brillante vidéo ont valu le coup : vous recevez la confirmation que vous avez brillamment passé l'étape 1, et êtes convié a Montreuil, au quartier général de Simplon.co.
+Un matin, en ouvrant votre boîte mail, vous constatez que les quelques jours de persévérance et de fun que vous avez passés a obtenir vos badges et à faire votre brillante vidéo ont valu le coup : vous recevez la confirmation que vous avez brillamment passé l'étape 1, et êtes convié à Montreuil, au quartier général de Simplon.co.
 
 Ne vous inquiétez pas, il ne s'agira pas de faire des parcours du combattant ou de subir des interrogatoires :-)
 
-Nous rencontrerons environ 70 candidats, et échangerons avec eux afin de mieux nous connaître, et d'approfondir sur ce qui sera fait a Simplon.co.
+Nous rencontrerons environ 70 candidats, et échangerons avec eux afin de mieux nous connaître, et d'approfondir sur ce qui sera fait à Simplon.co.
 
 ## Comment cela va-t-il se passer au quotidien ?
 
 **Vous allez être la première promotion de Simplon.co, donc ce qui va suivre est une anticipation de ce que sera le rythme et l'ambiance au sein de la formation. Ce sera en grande partie vous qui déterminerez l'ambiance qui règnera, les projets qui auront cours, et les activités autour de la formation. Vous donnerez le cap ! :-)**
 
-Tous les jours, les cours commenceront a la même heure (ponctualité exigée). La journée sera globalement composée des mêmes activités :
+Tous les jours, les cours commenceront à la même heure (ponctualité exigée). La journée sera globalement composée des mêmes activités :
 
 * 20% de cours par les mentors sur un sujet technique
 * 10% de cours par les mentors sur un autre sujet (coaching entrepreneurial, interface et User Experience, monétisation et modèles économiques, études de cas, formation à la prise de parole en public, etc.
@@ -143,13 +142,13 @@ Tous les jours, les cours commenceront a la même heure (ponctualité exigée). 
 Quelques points pour mieux vous projeter :
 
 * lorsque vous buterez sur un point, vous pourrez publier un ticket d'aide, et d'autres recrues viendront vous aider. Et inversement : vous pourrez aider les autres sur des points que vous maîtrisez.
-* les travaux de groupe exigent que vous puissiez échanger dans de bonnes conditions, pour laisser libre cours a vos échanges et a votre créativité : il y aura également un espace de réunion optimisé (whiteboards, post-its, poufs, grand écran, etc.)
-* lorsque vous serez fatigués, vous pourrez prendre un moment de détente dans un espace prévu a cet effet
+* les travaux de groupe exigent que vous puissiez échanger dans de bonnes conditions, pour laisser libre cours à vos échanges et à votre créativité : il y aura également un espace de réunion optimisé (whiteboards, post-its, poufs, grand écran, etc.)
+* lorsque vous serez fatigués, vous pourrez prendre un moment de détente dans un espace prévu à cet effet
 * vous pourrez faire des présentations de 20 minutes en moyenne lorsque vous en aurez envie, sur le thème de votre choix, et inviter les recrues qui veulent y assister (les "breakout sessions")
-* le matériel de travail vous sera fourni (Macs, Nexus 4, livres, etc.)
-* nous serons étroitement en contact et en collaboration avec la communauté Ruby - intervention en vidéo-conférence (mais aussi lors de passages a Paris) de développeurs des US et du monde entier, sessions de pair-programming a distance avec les apprentis d'autres bootcamps, intervention par vous dans le cadre d'événements et de vidéo-conférences, etc. Eh oui : devenir un hacker Ruby, c'est aussi entrer dans une grande famille portée par tout en ensemble de passions et de valeurs :-) 
+* le matériel de travail vous sera fourni (Mac, Nexus 4, livres, etc.)
+* nous serons étroitement en contact et en collaboration avec la communauté Ruby - intervention en vidéo-conférence (mais aussi lors de passages a Paris) de développeurs des US et du monde entier, sessions de pair-programming a distance avec les apprentis d'autres bootcamps, intervention par vous dans le cadre d'événements et de vidéo-conférences, etc. Eh oui : devenir un hacker entreprenant, c'est aussi entrer dans une grande famille portée par tout en ensemble de passions et de valeurs :-) 
 
-## Plus concrètement, quelle sera ma relation juridique a Simplon.co ?
+## Plus concrètement, quelle sera ma relation juridique à Simplon.co ?
 
 Comme précisé plus haut, nous allons vous former, et vous serez très vite opérationnels pour travailler sur des projets. Prioritairement sur vos projets à vous.
 
@@ -159,7 +158,7 @@ Nous sommes encore en train de réfléchir et de trouver des solutions pour que 
 * dans le cadre de bourses provenant de notre association
 * sur le mode du sponsoring individuel ou collectif par des entreprises
 
-De fait, la priorité sera que vous travailliez le plus rapidement possible sur vos projets et entreprises personnelles, mais nous pourrons etre amenés, ensemble, a réaliser des projets pour des entités externes (entreprises, associations, etc.).
+De fait, la priorité sera que vous travailliez le plus rapidement possible sur vos projets et entreprises personnelles, mais nous pourrons être amenés, ensemble, à réaliser des projets pour des entités externes (entreprises, associations, etc.).
 
 Bien sûr, notre objectif est de cadrer au maximum ces interventions afin qu'elles vous apportent le plus possible, et qu'elles correspondent à la vision globale de Simplon.co.
 
