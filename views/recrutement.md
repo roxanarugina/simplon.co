@@ -6,13 +6,13 @@
 
 **Simplon.co est une formation d'un nouveau genre, qui n'est pas une école à proprement parler.** Il s'agit davantage d'un "camp d'entraînement", comme les formations similaires aiment à le présenter dans d'autres pays (les"bootcamps").
 
-**Un entraînement intensif, immersif, qui dure au moins 5 mois**, qui demandera d'être entièrement dévoué a l'apprentissage du développement web et des tours de magie qu'il vous permettra de réaliser dès les premiers jours.
+**Un entraînement intensif, immersif, qui dure au moins 5 mois**, qui demandera d'être entièrement dévoué à l'apprentissage du développement web et des tours de magie qu'il vous permettra de réaliser dès les premiers jours.
 
-**Un entraînement rémunéré qui s'adresse prioritairement à ceux qui en ont le plus besoin** : en plus des étapes à passer pour candidater (décrites plus bas), d'autres critères seront pris en compte : situation financière et familiale, origine géographique (ZEP, localités parfois discriminantes sur un CV, zones rurales enclavées, etc.), et plus largement, profils socio-démographiques sous-représentés dans l'entreprenariat et les métiers du web (parité filles-garçons, seniors, handicap, etc. )
+**Un entraînement rémunéré (financé ou donnant lieu à une bourse) qui s'adresse prioritairement à ceux qui en ont le plus besoin** : en plus des étapes à passer pour candidater (décrites plus bas), d'autres critères seront pris en compte : situation financière et familiale, origine géographique (ZEP, localités parfois discriminantes sur un CV, zones rurales enclavées, etc.), et plus largement, profils socio-démographiques sous-représentés dans l'entreprenariat et les métiers du web (parité filles-garçons, seniors, handicap, etc. )
 
 **Un entraînement aussi qui sera en grande partie construit par vous** : nous ne sommes pas vos professeurs. Nous sommes les guides qui vous donneront l'opportunité d'optimiser ce que vous pouvez apprendre par vous-même, en vous fournissant les meilleur confort de travail possible, en vous accompagnant heure après heure sur les difficultés que vous rencontrerez, mais surtout en vous faisant comprendre un peu plus chaque jour que vous êtes maîtres de votre destin, et que les grandes choses que le développement web vous permettront d'accomplir sont a portée de main ! C'est d'ailleurs pour que vous puissiez vous consacrer à 100% à l'aventure que nous sommes en train de mettre au point un système pour vous rémunérer autant que faire
 
-**Un entraînement aussi où l'une des priorités est que vous vous sentiez bien et que vous passiez un moment agréable.** D'expérience, nous pouvons vous garantir que les moments de découragement ne manqueront pas. Mais ils sont bien vite surmontés, laissant place a une nouvelle bouffée d'entrain et de motivation. Et ce notamment grâce à l'entraide constante qui caractérisera la formation. Vous ne serez pas concurrents les uns des autres, mais bien 24 maximisateurs de forces mutuels, avec toutes la puissance qu'être une famille de 24 passionnés peut fournir !
+**Un entraînement aussi où l'une des priorités est que vous vous sentiez bien et que vous passiez un moment agréable.** D'expérience, nous pouvons vous garantir que les moments de découragement ne manqueront pas. Mais ils sont bien vite surmontés, laissant place a une nouvelle bouffée d'entrain et de motivation. Et ce notamment grâce à l'entraide constante qui caractérisera la formation. Vous ne serez pas concurrents les uns des autres mais plutôt une famille !
 
 Avant de poursuivre, voici une vidéo de présentation de DevBootCamp. L'ambiance et le format de Simplon.co risquent fortement de ressembler a ceci:
 
@@ -23,7 +23,7 @@ Vous pouvez également consulter ce blog d'un éleve de DevBootcamp, qui raconte
 
 ## Pourquoi faire Simplon.co ?
 
-A Simplon.co, vous allez apprendre le développement web. Vous serez opérationnels sur des langages de programmation puissants, accessibles et agréables a utiliser. Et ce en 5 mois.
+A Simplon.co, vous allez apprendre le développement web et la création d'entreprise de type "startup". Vous serez opérationnels sur des langages de programmation puissants, accessibles et agréables à utiliser et vous pourrez amener rapidement un produit ou un service sur le marché, et pourquoi pas en vivre. Et ce en 5 mois minimum.
 
 Vous aurez donc une réelle compétence, très précieuse en ces temps de pénurie de développeurs. Vous pourrez donc trouver un métier aisément avec cette formation.
 
@@ -44,7 +44,7 @@ Notre autre objectif est que ces projet qui seront les vôtres aient une utilit�
 **En résumé, Simplon.co a trois objectifs :**
 
   **1. en 5 mois, vous donner une réelle compétence, et la capacité a continuer a apprendre de manière autonome**
-  **2. faire de vous des entrepreneurs, des "lean startupers", et vous accompagner dans des projets que nous aurons conçus ensemble, et dont vous pourrez vivre**
+  **2. faire de vous des entrepreneurs et vous accompagner dans des projets que nous aurons conçus ensemble, et dont vous pourrez vivre**
   **3. et ce en apportant une contribution positive au bien commun**
 
 ## Est-ce que Simplon.co est fait pour moi ?
@@ -54,14 +54,14 @@ La formation proposée par Simplon.co est intensive, immersive, très collaborat
 **Il est important de connaître ces spécificités, afin que vous puissiez estimer à quel point :**
 
 * la formation est faite pour vous
-* vous pensez etre en mesure d'en tirer le maximum de bénéfice
-* et surtout a quel point vous pensez que vous vous y sentirez bien !
+* vous pensez etre en mesure d'en tirer le maximum de bénéfices
+* et surtout à quel point vous pensez que vous vous y sentirez bien !
 
 Voici des critères qui justifieront votre candidature, et optimiseront votre expérience au sein de Simplon.co :
 
 * avoir un niveau d'anglais confirmé (si vous réussissez l'étape 1., ça devrait convenir)
 * capacité a travailler en équipe, a bien communiquer, a bien faire comprendre aux autres ce que l'on a en tête
-* volonté d'aider les autres, à être a leur écoute, a comprendre les problèmes auxquels ils sont confrontés
+* volonté d'aider les autres, a être à leur écoute, a comprendre les problèmes auxquels ils sont confrontés
 * capacité a expliquer des choses, a être pédagogue
 * être un "passionné" : être capable de s'intéresser a un sujet de manière intensive et approfondie
 * curiosité, soif de connaissance, vouloir en savoir toujours plus, mais aussi savoir confronter différentes sources afin de juger de la qualité de ce qu'on trouve (esprit critique)
