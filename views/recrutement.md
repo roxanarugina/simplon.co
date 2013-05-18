@@ -10,7 +10,7 @@ Avant tout, quelques petits mots d'intro.
 
 **Un entraînement intensif, immersif, qui dure au moins 5 mois**, qui vous demandera d'être entièrement dévoué à l'apprentissage du développement web et des "tours de magie" qu'il vous permettra de réaliser dès les premiers jours.
 
-**Un entraînement rémunéré (financé ou donnant lieu à une bourse) qui s'adresse prioritairement à ceux qui en ont le plus besoin** : en plus des étapes à passer pour candidater (décrites plus bas), d'autres critères seront pris en compte : situation financière, familiale et scolaire, origine géographique (ZEP/ZUP, zones rurales enclavées, etc.), et plus largement, profils socio-démographiques sous-représentés dans l'entreprenariat et les métiers du web (parité filles-garçons, seniors, handicap, minorités visibles, etc. )
+**Un entraînement rémunéré (financé ou donnant lieu à une bourse) qui s'adresse prioritairement à ceux qui en ont le plus besoin** : en plus des étapes à passer pour candidater (décrites plus bas), d'autres critères seront pris en compte : situation financière, familiale et scolaire, origine géographique (ZEP/ZUP, zones rurales enclavées, etc.), et plus largement, profils socio-démographiques sous-représentés dans l'entreprenariat et les métiers du web (parité filles-garçons, seniors, handicap, etc. ).
 
 **Un entraînement aussi qui sera en grande partie construit par vous** : nous ne sommes pas vos professeurs. Nous sommes les guides qui vous donneront l'opportunité d'optimiser ce que vous pouvez apprendre par vous-même, en vous fournissant les meilleur confort de travail possible, en vous accompagnant heure après heure sur les difficultés que vous rencontrerez, mais surtout en vous faisant comprendre un peu plus chaque jour que vous êtes maîtres de votre destin, et que les grandes choses que le développement web vous permettront d'accomplir sont a portée de main ! C'est d'ailleurs pour que vous puissiez vous consacrer à 100% à l'aventure que nous sommes en train de mettre au point un système pour vous rémunérer autant que faire
 
@@ -25,7 +25,7 @@ Vous pouvez également consulter ce blog d'un éleve de DevBootcamp, qui raconte
 Pourquoi faire Simplon.co ?
 ---------------------------
 
-A Simplon.co, vous allez apprendre le développement web et la création d'entreprise de type "startup". Vous serez opérationnels sur des langages de programmation puissants, accessibles et agréables à utiliser et vous pourrez amener rapidement un produit ou un service sur le marché, et pourquoi pas en vivre. Et ce en 5 mois minimum.
+A Simplon.co, vous allez apprendre le développement web et la création d'entreprise de type "startup". Vous serez opérationnels sur des langages de programmation puissants, accessibles et agréables à utiliser, et vous pourrez amener rapidement un produit ou un service sur le marché, et pourquoi pas en vivre. Et ce en 5 mois minimum.
 
 Vous aurez donc une réelle compétence, très précieuse en ces temps de pénurie de développeurs. Vous pourrez donc trouver un métier aisément avec cette formation.
 
@@ -45,9 +45,9 @@ Notre autre objectif est que ces projets qui seront les vôtres aient une utilit
 
 **En résumé, Simplon.co a trois objectifs :**
 
-1. en 5 mois, vous donner une réelle compétence, et la capacité a continuer à apprendre de manière autonome**
-2. faire de vous des entrepreneurs et vous accompagner dans vos projet, ou dans des projets que nous aurons conçus ensemble, et dont vous pourrez vivre**
-3. et ce en apportant une contribution positive au bien commun**
+1. en 5 mois, vous donner une réelle compétence, et la capacité a continuer à apprendre de manière autonome
+2. faire de vous des entrepreneurs et vous accompagner dans vos projet, ou dans des projets que nous aurons conçus ensemble, et dont vous pourrez vivre
+3. et ce en apportant une contribution positive au bien commun
 
 ## Est-ce que Simplon.co est fait pour moi ?
 
@@ -56,12 +56,12 @@ La formation proposée par Simplon.co est intensive, immersive, très collaborat
 **Il est important de connaître ces spécificités, afin que vous puissiez estimer à quel point :**
 
 * la formation est faite pour vous
-* vous pensez etre en mesure d'en tirer le maximum de bénéfices
+* vous pensez être en mesure d'en tirer le maximum de bénéfices
 * et surtout à quel point vous pensez que vous vous y sentirez bien !
 
 Voici des critères qui justifieront votre candidature, et optimiseront votre expérience au sein de Simplon.co :
 
-* avoir un bon niveau d'anglais (si vous réussissez l'étape 1., ça devrait convenir) et on se fiche de savoir si vous l'avez acquis en écoutant de la musique, en regardant des séries ou en jouant à des jeux en réseau, mais c'est indispensable pour progresser vite dans la formation
+* avoir un bon niveau d'anglais (si vous réussissez l'étape 1., ça devrait convenir), et peu importe que vous l'avez acquis en écoutant de la musique, en regardant des séries ou en jouant à des jeux en réseau. **L'essentiel est de bien le comprendre à l'oral comme à l'écrit, pas de s'exprimer en anglais. C'est indispensable pour progresser vite dans la formation.**
 * capacité à travailler en équipe, à bien communiquer, à bien faire comprendre aux autres ce que l'on a en tête
 * volonté d'aider les autres, à être à leur écoute, a comprendre les problèmes auxquels ils sont confrontés
 * capacité à expliquer des choses, à être pédagogue
@@ -73,7 +73,10 @@ Voici des critères qui justifieront votre candidature, et optimiseront votre ex
 Comment ça se passe pour postuler
 ---------------------------------
 
-Pour rejoindre la famille simplonienne, il y a deux grandes étapes.
+**Pour rejoindre la famille simplonienne (24 places), il y a deux grandes étapes, que vous pouvez passer selon le calendrier suivants :**
+* **étape 1. ("le baptême du feu") : jusqu'au 1er juillet**
+* **étape 2. ("la rencontre au sommet") : rencontres individuels des admissibles en juillet-août**
+* **début de la formation : à la rentrée**
 
 ### 1. Le baptême du feu
 
@@ -117,11 +120,11 @@ Dans la même vidéo, apprenez-nous quelque chose (quoi que ce soit), parlez nou
 
 Sur [recrutement@simplon.co](mailto:recrutement@simplon.co), envoyez nous un mail contenant :
 
-+ le lien vers vos profils CodeSchool et vos badges
++ le lien vers vos profils CodeSchool et vos badges 
 + le lien vers votre vidéo, que vous aurez mise en ligne sur la plate-forme de votre choix
 + les informations suivantes :
-  + Prénom - Nom - Date de naissance - Adresse - Diplômes et formations - Parcours professionnel (tout, les petits boulots aussi nous intéressent)
-  + Dites nous pourquoi vous pensez mériter ce genre de formation rémunérée ouverte principalement aux personnes défavorisées ? Avez-vous été boursier au cours de votre scolarité ? Etes-vous bénéficiaire d'une aide sociale ?
+  + Prénom - Nom - Date de naissance - Adresse - Numéro de téléphone - Diplômes et formations - Parcours professionnel (tout, les petits boulots aussi nous intéressent)
+  + Dites nous pourquoi vous pensez mériter ce genre de formation rémunérée ouverte principalement aux personnes défavorisées ? Avez-vous été boursier au cours de votre scolarité ? Etes-vous bénéficiaire d'une aide sociale ? Autres raisons (familiales, difficulté à trouver un emploi, âge, etc.) ?
 
 ### 2. La rencontre au sommet :-)
 
@@ -129,7 +132,15 @@ Un matin, en ouvrant votre boîte mail, vous constatez que les quelques jours de
 
 Ne vous inquiétez pas, il ne s'agira pas de faire des parcours du combattant ou de subir des interrogatoires :-)
 
-Nous rencontrerons environ 70 candidats, et échangerons avec eux afin de mieux nous connaître, et d'approfondir sur ce qui sera fait à Simplon.co.
+Nous rencontrerons environ 70 candidats, et échangerons avec eux afin de mieux nous connaître, et d'approfondir sur ce qui sera fait à Simplon.co, et de sélectionner les 24 qui suivront la formation.
+
+### Récapitulatif du mode de candidature :
+Jusqu'au 1er juillet - nous envoyer sur inbox@simplon.co un mail contenant :
+* un lien vers les badges des écoles en ligne gratuites (Cf. détails plus haut)
+* un lien vers la vidéo que vous aurez produits (idem)
+
+Nous sélectionnerons alors ceux que nous rencontrerons, afin de déterminer qui seront les 24 à suivre la formation dès la rentrée 2013.
+
 
 Comment cela va-t-il se passer au quotidien ?
 ---------------------------------------------
@@ -159,7 +170,7 @@ Comme précisé plus haut, nous allons vous former, et vous serez très vite op�
 
 Nous sommes encore en train de réfléchir et de trouver des solutions pour que vous soyez rémunérés le mieux possible au cours de votre formation. Et ce soit :
 
-* dans le cadre de contrats de professionnalisation,
+* dans le cadre de contrats de professionnalisation
 * dans le cadre de bourses provenant de notre association
 * sur le mode du sponsoring individuel ou collectif par des entreprises
 
