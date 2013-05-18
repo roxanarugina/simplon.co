@@ -18,6 +18,22 @@
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
   %body
+    .contain-to-grid.fixed
+      .row
+        .large-12
+          %nav.top-bar
+            %ul.title-area
+              / Title Area
+              %li.name
+                %h1
+                  %a{:href => "/"} Simplon.co
+            %section.top-bar-section
+              / Right Nav Section
+              %ul.right
+                %li
+                  %a(href="/recrutement") Recrutement
+                %li
+                  %a(href="/en") In English
     .row
       .large-12
         = yield

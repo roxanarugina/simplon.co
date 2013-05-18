@@ -2,16 +2,19 @@
 @import "foundation";
 @import "compass/css3/box-shadow";
 
-body {
-	margin: $column-gutter/2;
-	margin-top: $column-gutter;
-}
 .intro[lang="fr"] {
 	font-size: 24px;
 	border-bottom: 1px solid hsl(0,0%,90%);
 	padding-bottom: $column-gutter/2;
 	font-size: emCalc(24px);
 	margin-bottom: $column-gutter/2
+}
+
+body {
+    padding-top: $column-gutter*2;
+}
+.contain-to-grid .top-bar {
+    margin-bottom: 0;
 }
 
 .logo {
