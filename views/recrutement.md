@@ -74,9 +74,10 @@ Comment ça se passe pour postuler
 ---------------------------------
 
 **Pour rejoindre la famille simplonienne (24 places), il y a deux grandes étapes, que vous pouvez passer selon le calendrier suivants :**
-* **étape 1. ("le baptême du feu") : jusqu'au 1er juillet**
-* **étape 2. ("la rencontre au sommet") : rencontres individuels des admissibles en juillet-août**
-* **début de la formation : à la rentrée**
+
+* étape 1. ("le baptême du feu") : jusqu'au 1er juillet
+* étape 2. ("la rencontre au sommet") : rencontres individuels des admissibles en juillet-août
+* début de la formation : à la rentrée
 
 ### 1. Le baptême du feu
 
@@ -135,7 +136,9 @@ Ne vous inquiétez pas, il ne s'agira pas de faire des parcours du combattant ou
 Nous rencontrerons environ 70 candidats, et échangerons avec eux afin de mieux nous connaître, et d'approfondir sur ce qui sera fait à Simplon.co, et de sélectionner les 24 qui suivront la formation.
 
 ### Récapitulatif du mode de candidature :
+
 Jusqu'au 1er juillet - nous envoyer sur inbox@simplon.co un mail contenant :
+
 * un lien vers les badges des écoles en ligne gratuites (Cf. détails plus haut)
 * un lien vers la vidéo que vous aurez produits (idem)
 
