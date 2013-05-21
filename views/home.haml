@@ -90,18 +90,24 @@
       %li empowerment et outillage d'acteurs de terrain
       %li pair-programming à distance avec les simploniens
       %li autres possibilités auxquelles nous n'avons pas encore pensé
-    %h2 Engageons la conversation !
   .large-6.columns
     .panel
       %p 
         NB à l'attention des candidats : pour mener à bien votre candidature il faut avant tout que vous suiviez les étapes décrites dans
         %a{:href => "/recrutement"} la page recrutement.
         Chacun doit être à égalité sur les candidatures : c'est pourquoi nous ne répondrons pas aux sollicitations sur ce sujet.
-    .row
-      .large-6.columns
-        %p
-          %a{:href => "mailto:inbox@simplon.co"} inbox@simplon.co
-          %br
-          %a{:href => "//twitter.com/simplonco"} @simplonco
-          %br
-          %a{:href => "//simplonco.tumblr.com"} Tumblr
+    %p
+      %a{:href => "mailto:inbox@simplon.co"} inbox@simplon.co
+      %br
+      %a{:href => "//twitter.com/simplonco"} @simplonco
+      %br
+      %a{:href => "//simplonco.tumblr.com"} Tumblr
+    %h2 Engageons la conversation !
+    %form{:action => "http://simplon.us7.list-manage.com/subscribe/post?u=5ae60e696c9630563d135f98a&amp;id=2bcfcc8ac5", :method => "post", :name => "mc-embedded-subscribe-form", :novalidate => "", :target => "_blank"}
+      %h3 Inscrivez-vous à notre newsletter
+      .row.collapse
+        %label{:for => "mce-EMAIL"}
+        .small-9.columns
+          %input#mce-EMAIL{:name => "EMAIL", :placeholder => 'email', :type => "email", :value => ""}
+        .small-3.columns
+          %input.button.small{:name => "subscribe", :type => "submit", :value => "Je m'abonne"}
