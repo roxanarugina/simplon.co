@@ -26,6 +26,10 @@ get '/en' do
   haml :home_en
 end
 
+get '/recrutement' do
+  haml :recrutement
+end
+
 get '/:page' do
   markdown params[:page].to_sym
 end

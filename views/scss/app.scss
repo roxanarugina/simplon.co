@@ -100,6 +100,17 @@ body {
 	margin-bottom: 10px;
 	color: white;
 }
+.alert-box {
+    h1, h2, h3, h4, h5, h6 { color: white }
+    ul { list-style: disc inside }
+    a {
+      color: white;
+      border-bottom-color: white;
+    }
+    > *:last-child {
+      margin-bottom: 0;
+    }
+}
 a {
 	border-bottom: 1px solid rgb(0, 0, 238);
 	padding-bottom: 2px;
