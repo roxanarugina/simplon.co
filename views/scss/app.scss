@@ -35,6 +35,11 @@ body {
 #apply, #team, #social {
 	margin-bottom: $column-gutter;
 }
+
+.recrutement h2 {
+    margin-top: $column-gutter;
+}
+
 .name {
 	height:2.5em;
 	font-weight:bold;

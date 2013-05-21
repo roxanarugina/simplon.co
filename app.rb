@@ -38,3 +38,9 @@ get "/stylesheets/*.css" do |path|
   content_type "text/css", charset: "utf-8"
   scss :"scss/#{path}"
 end
+
+helpers do
+  def body_class
+    request.path[1..-1]
+  end
+end
