@@ -17,6 +17,33 @@
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
+    %script(type="text/template" id="tpl-tumblr-post")
+      :plain
+        <% if(typeof title !== 'undefined' && title){ %>
+          <h3>
+            <a href="<%= post_url %>"><%= title %></a>
+          </h3>
+        <% } %>
+    %script{:src => "//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"}
+    %script{:src => "//documentcloud.github.com/underscore/underscore-min.js"}
+    %script{:src => "//backbonejs.org/backbone-min.js"}
+    %script{:src => "/javascripts/tumblr.js"}
+    :javascript
+      tumblr = {};
+      $(document).ready(function(){
+        tumblr.collection = new Tumblr({
+          hostname: 'simplonco.tumblr.com',
+          params: {
+              api_key: 'kY29KXWiSfuGqBfG95nWD6xNRiMztR4118GOYZFkfKECJrM2Cr'
+             ,limit: 10
+          }
+        });
+        tumblr.view = new TumblrView({
+          el: '#tumblr',
+          collection: tumblr.collection
+        });
+        tumblr.collection.page();
+      });
   %body
     .contain-to-grid.fixed
       .row
