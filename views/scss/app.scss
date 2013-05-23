@@ -65,10 +65,10 @@ body {
   content: "=>";
   right:-11px;
 }
-#highlights >:last-child .highlight:after{
+#highlights >:last-child .box:after{
   content:"";
 }
-.highlight {
+.box {
   position: relative;
   background:hsl(5,5%,95%);
   @include box-shadow(0 1px 0 rgba(0,0,0,.6));
@@ -147,4 +147,9 @@ ul {
 
 .contain-to-grid {
  box-shadow: 0 5px 0 rgba(0,0,0,.1);
+}
+
+.gist {
+  table { background: inherit; margin: inherit; border: inherit }
+  td { font-size: .9em; line-height: inherit; }
 }
