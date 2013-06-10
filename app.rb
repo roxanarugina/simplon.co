@@ -30,6 +30,11 @@ get '/recrutement' do
   haml :recrutement
 end
 
+get '/summercamp' do
+  haml :summercamp
+end
+
+
 get '/:page' do
   markdown params[:page].to_sym
 end
