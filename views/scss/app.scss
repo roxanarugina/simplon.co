@@ -153,3 +153,27 @@ ul {
   table { background: inherit; margin: inherit; border: inherit }
   td { font-size: .9em; line-height: inherit; }
 }
+
+.summercamp header {
+  position: relative;
+
+}
+.summercamp header h2 {
+  position:absolute;
+  top: $column-gutter/2;
+  left: 0;
+  background: rgba(0,0,0,.8);
+  color: white;
+  padding: $column-gutter/2;
+  width: 80%;
+}
+img {
+  margin-bottom: $column-gutter;
+
+}
+#content {
+  padding: $column-gutter;
+  border: 1px solid hsl(0,0%,90%);
+  border-top: 0;
+  border-left-color: hsl(0,0%,97%);
+}
