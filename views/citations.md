@@ -60,3 +60,19 @@
 > The computer revolution is a revolution in the way we think and in the way we express what we think. The essence of this change is the emergence of what might best be called procedural epistemology--the study of the structure of knowledge from an imperative point of view, as opposed to the more declarative point of view taken by classical mathematical subjects.
 
 \- H. Abelson and G. Sussman
+
+> Computer Science is no more about computers than astronomy is about telescopes.
+
+\- E. Dijkstra
+
+> Computing is not about computers any more. It is about living.
+
+\- N. Negroponte
+
+> A programming language is like a natural, human language in that it favors certain methaphors, images, and ways of thinking.
+
+\- S. Papert
+
+> My basic idea is that programming is the most powerful medium of developing the sophisticated and rigorous thinking needed for mathematics, for grammar, for physics, for statistics, for all the "hard" subjects.... In short, I believe more than ever that programming should be a key part of the intellectual development of people growing up.
+
+\- S. Papert
