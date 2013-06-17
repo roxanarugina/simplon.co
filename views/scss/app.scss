@@ -177,3 +177,21 @@ img {
   border-top: 0;
   border-left-color: hsl(0,0%,97%);
 }
+
+strong { font-weight: bold }
+
+.feature {
+  height: 380px;
+  background: hsl(200,45%,55%);
+  color:white;
+  margin-bottom: 30px;
+  @include box-shadow(inset -1px -1px 0 rgba(0,0,0,.5));
+  p { padding: 15px 30px}
+  h3 {
+    background:rgba(0,0,0,.2);
+    border-bottom:1px solid rgba(0,0,0,.1);
+    padding: 15px 30px;
+    color: white;
+    text-shadow: 0 1px 1px rgba(0,0,0,.5)
+  }
+}
