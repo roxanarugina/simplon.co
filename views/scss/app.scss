@@ -195,3 +195,15 @@ strong { font-weight: bold }
     text-shadow: 0 1px 1px rgba(0,0,0,.5)
   }
 }
+
+.transit {
+  border-radius:30px;
+  width:30px;
+  height:30px;
+  text-align:center;
+  font-weight:bold;
+  display:inline-block;
+  &.line-9 { background: #CEC82B; }
+  &.line-1 { background: #F2C931; }
+  &.rer-a { border:2px solid #D35E3C; color: #D35E3C; }
+}
