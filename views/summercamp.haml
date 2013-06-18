@@ -12,15 +12,19 @@
   .large-4.columns
     .feature
       %h3 Formation 1 journée *
-      %p Initiation express à la programmation avec Ruby
+      %p
+        Initiation express à la programmation avec Ruby
+      %a.button(href="#inscription") S'inscrire
   .large-4.columns
     .feature
       %h3 Formation 3 jours *
       %p Construisez une application simple avec Ruby et Ruby on Rails, repartez avec un Raspberry PI contenant votre application
+      %a.button(href="#inscription") S'inscrire
   .large-4.columns
     .feature
       %h3 Votre évènement
       %p Organisez votre évènement chez nous
+      %a.button(href="#inscription") Proposer un évènement
 
 %p * Eligible au DIF, prix découverte très attractifs et tarifs adaptés si chômeur, porteur de projet, élève/étudiant
 
@@ -84,25 +88,27 @@
 
 
 / Begin MailChimp Signup Form
-#wufoo-z7x4m1
-  Remplissez ce
-  = succeed "." do
-    %a{:href => "http://simplonco.wufoo.com/forms/z7x4m1"} formulaire
-:javascript
-  var z7x4m1;(function(d, t) {
-  var s = d.createElement(t), options = {
-  'userName':'simplonco',
-  'formHash':'z7x4m1',
-  'autoResize':true,
-  'height':'620',
-  'async':true,
-  'header':'show'};
-  s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
-  s.onload = s.onreadystatechange = function() {
-  var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
-  try { z7x4m1 = new WufooForm();z7x4m1.initialize(options);z7x4m1.display(); } catch (e) {}};
-  var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
-  })(document, 'script');
+#inscription
+  %h2 Inscription
+  #wufoo-z7x4m1
+    Remplissez ce
+    = succeed "." do
+      %a{:href => "http://simplonco.wufoo.com/forms/z7x4m1"} formulaire
+    :javascript
+      var z7x4m1;(function(d, t) {
+      var s = d.createElement(t), options = {
+      'userName':'simplonco',
+      'formHash':'z7x4m1',
+      'autoResize':true,
+      'height':'620',
+      'async':true,
+      'header':'show'};
+      s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
+      s.onload = s.onreadystatechange = function() {
+      var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+      try { z7x4m1 = new WufooForm();z7x4m1.initialize(options);z7x4m1.display(); } catch (e) {}};
+      var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+      })(document, 'script');
 
 %h2 Ils soutiennent Simplon.co :
 
