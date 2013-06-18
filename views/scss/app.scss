@@ -3,214 +3,214 @@
 @import "compass/css3/box-shadow";
 
 .intro[lang="fr"] {
-  font-size: 24px;
-  border-bottom: 1px solid hsl(0,0%,90%);
-  padding-bottom: $column-gutter/2;
-  font-size: emCalc(24px);
-  margin-bottom: $column-gutter/2;
-  margin-top: $column-gutter;
+	font-size: 24px;
+	border-bottom: 1px solid hsl(0,0%,90%);
+	padding-bottom: $column-gutter/2;
+	font-size: emCalc(24px);
+	margin-bottom: $column-gutter/2;
+	margin-top: $column-gutter;
 }
 
 body {
-  padding-top: $column-gutter*2;
+	padding-top: $column-gutter*2;
 }
 .contain-to-grid .top-bar {
-  margin-bottom: 0;
+	margin-bottom: 0;
 }
 
 .logo {
-  background:hsl(0,0%,20%);
-  padding:.5em;
-  margin-left: -.5em;
-  color:white;
+	background:hsl(0,0%,20%);
+	padding:.5em;
+	margin-left: -.5em;
+	color:white;
 }
 
 #team {
-  background: hsl(5,5%,94%);
-  border: 1px solid hsl(5,5%,86%);
-  img, .placeholder {
-    margin-bottom: .5em;
-  }
+	background: hsl(5,5%,94%);
+	border: 1px solid hsl(5,5%,86%);
+	img, .placeholder {
+		margin-bottom: .5em;
+	}
 }
 
 #apply, #team, #social {
-  margin-bottom: $column-gutter;
+	margin-bottom: $column-gutter;
 }
 
 .recrutement h2 {
-  margin-top: $column-gutter;
+	margin-top: $column-gutter;
 }
 
 .name {
-  height:2.5em;
-  font-weight:bold;
+	height:2.5em;
+	font-weight:bold;
 }
 
 
 #highlights {
-  background: hsl(10,50%,40%);
-  padding: $column-gutter/2 0;
-  margin-bottom: $column-gutter*2;
+	background: hsl(10,50%,40%);
+	padding: $column-gutter/2 0;
+	margin-bottom: $column-gutter*2;
 }
 #highlights >:nth-child(-n+3):after {
-  content: "+";
-  position: absolute;
-  right:-5px;
-  color:white;
-  font-size: 20px;
-  top: 100px;
-  text-shadow: 0 1px 0 rgba(0,0,0,.6);
+	content: "+";
+	position: absolute;
+	right:-5px;
+	color:white;
+	font-size: 20px;
+	top: 100px;
+	text-shadow: 0 1px 0 rgba(0,0,0,.6);
 }
 #highlights >:nth-child(3):after{
-  content: "=>";
-  right:-11px;
+	content: "=>";
+	right:-11px;
 }
 #highlights >:last-child .box:after{
-  content:"";
+	content:"";
 }
 .box {
-  position: relative;
-  background:hsl(5,5%,95%);
-  @include box-shadow(0 1px 0 rgba(0,0,0,.6));
-  padding:1em;
-  >:first-child {
-    margin:0;
-  }
+	position: relative;
+	background:hsl(5,5%,95%);
+	@include box-shadow(0 1px 0 rgba(0,0,0,.6));
+	padding:1em;
+	>:first-child {
+		margin:0;
+	}
 }
 
 #contact {
-  background: hsl(5,5%,94%);
+	background: hsl(5,5%,94%);
 }
 
 .placeholder {
-  width:140px;
-  height:140px;
-  background: hsl(10,50%,40%);
-  position:relative;
+	width:140px;
+	height:140px;
+	background: hsl(10,50%,40%);
+	position:relative;
 }
 .placeholder p {
-  top:40%;
-  position:absolute;
-  left:36%;
-  color:white;
+	top:40%;
+	position:absolute;
+	left:36%;
+	color:white;
 }
 
 .tags {
-  overflow: hidden;
+	overflow: hidden;
 }
 .tag {
-  display: inline-block;
-  background:hsl(0,0%,10%);
-  @include box-shadow(2px 2px 0 rgba(0,0,0,.1));
-  padding: 4px 8px;
-  margin-bottom: 10px;
-  color: white;
+	display: inline-block;
+	background:hsl(0,0%,10%);
+	@include box-shadow(2px 2px 0 rgba(0,0,0,.1));
+	padding: 4px 8px;
+	margin-bottom: 10px;
+	color: white;
 }
 .alert-box {
-  h1, h2, h3, h4, h5, h6 { color: white }
-  ul { list-style: disc inside }
-  a {
-    color: white;
-    border-bottom-color: white;
-  }
-  > *:last-child {
-    margin-bottom: 0;
-  }
+	h1, h2, h3, h4, h5, h6 { color: white }
+	ul { list-style: disc inside }
+	a {
+		color: white;
+		border-bottom-color: white;
+	}
+	> *:last-child {
+		margin-bottom: 0;
+	}
 }
 p a {
-  border-bottom: 1px solid rgb(0, 0, 238);
-  padding-bottom: 2px;
+	border-bottom: 1px solid rgb(0, 0, 238);
+	padding-bottom: 2px;
 }
 .panel {
-  background: white;
-  margin-top: 1em;
+	background: white;
+	margin-top: 1em;
 }
 
 #building p {
-  background: rgba(0,0,0,.8);
-  padding: 1em;
-  position: absolute;
-  top: 50%;
-  left: 10%;
-  color: white;
+	background: rgba(0,0,0,.8);
+	padding: 1em;
+	position: absolute;
+	top: 50%;
+	left: 10%;
+	color: white;
 }
 ul {
-  list-style: disc;
+	list-style: disc;
 }
 
 .recrutement #content {
-  border:1px solid hsl(0,0%,80%);
-  border-top:0;
-  border-bottom:0;
-  padding: $column-gutter;
+	border:1px solid hsl(0,0%,80%);
+	border-top:0;
+	border-bottom:0;
+	padding: $column-gutter;
 }
 
 .contain-to-grid {
- box-shadow: 0 5px 0 rgba(0,0,0,.1);
+	box-shadow: 0 5px 0 rgba(0,0,0,.1);
 }
 
 .gist {
-  table { background: inherit; margin: inherit; border: inherit }
-  td { font-size: .9em; line-height: inherit; }
+	table { background: inherit; margin: inherit; border: inherit }
+	td { font-size: .9em; line-height: inherit; }
 }
 
 .summercamp header {
-  position: relative;
+	position: relative;
 
 }
 .summercamp header h2 {
-  position:absolute;
-  top: $column-gutter/2;
-  left: 0;
-  background: rgba(0,0,0,.8);
-  color: white;
-  padding: $column-gutter/2;
-  width: 80%;
+	position:absolute;
+	top: $column-gutter/2;
+	left: 0;
+	background: rgba(0,0,0,.8);
+	color: white;
+	padding: $column-gutter/2;
+	width: 80%;
 }
 img {
-  margin-bottom: $column-gutter;
+	margin-bottom: $column-gutter;
 
 }
 #content {
-  padding: $column-gutter;
-  border: 1px solid hsl(0,0%,90%);
-  border-top: 0;
-  border-left-color: hsl(0,0%,97%);
+	padding: $column-gutter;
+	border: 1px solid hsl(0,0%,90%);
+	border-top: 0;
+	border-left-color: hsl(0,0%,97%);
 }
 
 strong { font-weight: bold }
 
 .feature {
-  height: 380px;
-  background: hsl(200,45%,55%);
-  color:white;
-  margin-bottom: 30px;
-  @include box-shadow(inset -1px -1px 0 rgba(0,0,0,.5));
-  p { padding: 15px 30px}
-  h3 {
-    background:rgba(0,0,0,.2);
-    border-bottom:1px solid rgba(0,0,0,.1);
-    padding: 15px 30px;
-    color: white;
-    text-shadow: 0 1px 1px rgba(0,0,0,.5)
-  }
-  .button {
-	position: absolute;
-	bottom: 45px;
-	left: 45px;
-  }
+	height: 380px;
+	background: hsl(200,45%,55%);
+	color:white;
+	margin-bottom: 30px;
+	@include box-shadow(inset -1px -1px 0 rgba(0,0,0,.5));
+	p { padding: 15px 30px}
+	h3 {
+		background:rgba(0,0,0,.2);
+		border-bottom:1px solid rgba(0,0,0,.1);
+		padding: 15px 30px;
+		color: white;
+		text-shadow: 0 1px 1px rgba(0,0,0,.5)
+	}
+	.button {
+		position: absolute;
+		bottom: 45px;
+		left: 45px;
+	}
 }
 
 .transit {
-  border-radius:30px;
-  width:30px;
-  height:30px;
-  text-align:center;
-  font-weight:bold;
-  display:inline-block;
-  &.line-9 { background: #CEC82B; }
-  &.line-1 { background: #F2C931; }
-  &.rer-a { border:2px solid #D35E3C; color: #D35E3C; }
+	border-radius:30px;
+	width:30px;
+	height:30px;
+	text-align:center;
+	font-weight:bold;
+	display:inline-block;
+	&.line-9 { background: #CEC82B; }
+	&.line-1 { background: #F2C931; }
+	&.rer-a { border:2px solid #D35E3C; color: #D35E3C; }
 }
 
 .summercamp h2, .recrutement h2 { margin-top: 2em }
