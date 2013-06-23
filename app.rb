@@ -26,17 +26,9 @@ get '/en' do
   haml :home_en
 end
 
-get '/recrutement' do
-  haml :recrutement
-end
-
-get '/summercamp' do
-  haml :summercamp
-end
-
-
 get '/:page' do
-  markdown params[:page].to_sym
+  page = params[:page]
+  File.exists?("./views/#{page}.md") ? markdown(page.to_sym) : haml(page.to_sym)
 end
 
 get "/stylesheets/*.css" do |path|
