@@ -28,7 +28,11 @@ end
 
 get '/:page' do
   page = params[:page]
-  File.exists?("./views/#{page}.md") ? markdown(page.to_sym) : haml(page.to_sym)
+  if File.exists?("./views/#{page}.md")
+    "<div class='row'><div class='large-12 columns'>#{markdown page.to_sym}</div></div>"
+  else
+    haml page.to_sym
+  end
 end
 
 get "/stylesheets/*.css" do |path|
