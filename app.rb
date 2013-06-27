@@ -26,7 +26,12 @@ get '/en' do
   haml :home_en
 end
 
-get '/:page' do
+get "/stylesheets/*.css" do |path|
+  content_type "text/css", charset: "utf-8"
+  scss :"scss/#{path}"
+end
+
+get %r{/(landing/)?(?<page>.*)} do
   page = params[:page]
   if File.exists?("./views/#{page}.md")
     "<div class='row'><div class='large-12 columns'>#{markdown page.to_sym}</div></div>"
@@ -35,13 +40,8 @@ get '/:page' do
   end
 end
 
-get "/stylesheets/*.css" do |path|
-  content_type "text/css", charset: "utf-8"
-  scss :"scss/#{path}"
-end
-
 helpers do
   def body_class
-    request.path[1..-1]
+    request.path.gsub('/',' ').strip
   end
 end
