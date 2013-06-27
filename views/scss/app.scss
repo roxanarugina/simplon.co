@@ -12,10 +12,9 @@
 }
 
 body {
-	padding-top: $column-gutter*2;
+	padding-top: $topbar-height;
+    &.landing { background:hsl(0,0%,10%) }
 }
-
-.landing { background:hsl(0,0%,10%) }
 
 .contain-to-grid .top-bar {
 	margin-bottom: 0;
