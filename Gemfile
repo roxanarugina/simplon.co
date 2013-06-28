@@ -7,7 +7,6 @@ gem 'redcarpet'
 gem 'rdiscount'
 gem 'thin'
 gem 'zurb-foundation', "~> 4"
-gem 'rack-thumb'
 gem 'compass'
 
 group :development do

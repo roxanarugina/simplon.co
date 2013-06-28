@@ -6,8 +6,4 @@ if settings.environment == :development
   use Rack::LiveReload
 end
 
-require 'rack/thumb'
-use Rack::Thumb
-use Rack::Static, :urls => ["/media"]
-
 run Sinatra::Application
