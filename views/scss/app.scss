@@ -217,7 +217,7 @@ strong { font-weight: bold }
 
 .summercamp h2, .recrutement h2 { margin-top: 2em }
 
-.sc_twitter {
+.landing {
   padding-top: 0;
   .contain-to-grid { display: none }
 }
@@ -233,7 +233,7 @@ strong { font-weight: bold }
   }
   + section .row:first-child { padding-top: $column-gutter }
 }
-.sc_twitter {
+.landing {
   .columns {
     > h1:only-child, > h2:only-child { margin: 0 }
   }
@@ -288,3 +288,5 @@ ul#timeline {
   }
 }
 iframe { width: 100% }
+
+.sc_twitter_3j ul#timeline > li { width: 33.3%;  }
