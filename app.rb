@@ -31,6 +31,10 @@ get "/stylesheets/*.css" do |path|
   scss :"scss/#{path}"
 end
 
+get '/sc_twitter3' do
+  redirect '/landing/sc_twitter_3j'
+end
+
 get %r{/(landing/)?(?<page>.*)} do
   page = params[:page]
   if File.exists?("./views/#{page}.md")
