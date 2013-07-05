@@ -290,3 +290,14 @@ ul#timeline {
 iframe { width: 100% }
 
 .sc_twitter_3j ul#timeline > li { width: 33.3%;  }
+
+.subbox{
+  color: white;
+  background: hsl(200,45%,55%);
+  strong { padding: $column-gutter; }
+  h3 { width: 100%; padding: 5% 10%;background:hsl(200,32.5%,44.1%); color: white; }
+  p { padding: 0px $column-gutter 0px $column-gutter; }
+  ul { color: white; width: 90%;padding: $column-gutter; margin-left: 5%; font-size: 14px; }
+      li { margin-bottom: 10px;}
+
+}
