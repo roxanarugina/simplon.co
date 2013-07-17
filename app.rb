@@ -31,6 +31,10 @@ get "/stylesheets/*.css" do |path|
   scss :"scss/#{path}"
 end
 
+get '/recrutement' do
+  redirect '/formation-6-mois'
+end
+
 get '/sc_twitter3' do
   redirect '/landing/sc_twitter_3j'
 end
