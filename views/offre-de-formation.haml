@@ -1,0 +1,119 @@
+%header
+  .row
+    .large-12.columns
+      %h1 Offre de formation (DIF, PEF)
+      %p Texte d'intro
+
+  .row
+    .large-12.columns
+      %h2 Des formations pour tout le monde
+      %p.asterix Toutes les formations sont éligibles au DIF et au PEF
+      %h3.sous-titre Consultez les formations conseillées pour votre poste:
+      %ul.publics
+        %li.public1 Dirigeants
+        %li.public2 Chefs de projet, consultants
+        %li.public3 Planneurs, créatifs
+        %li.public4 Directeurs techniques
+        %li.public5 Formation, reconversion professionnelle
+        %li.public6 Enfants (accompagnés)
+        %li.public7 Développeurs (migration, pérfectionnement)
+
+
+  .row
+    .large-4.columns.formations-excerpt
+      <!-- Formations 1 jour -->
+      %h2 Formations en 1 jour
+      %ul.formations
+        -# = Pour ajouter l'aperçu d'une formation:
+              * Copiez ce qui suit (A partir du %li jusqu'au saut de ligne suivant).
+              * Collez le à la suite ( après le saut de ligne ).
+              * Editer les contenus sans modififer l'architecture (ne pas changer la
+                place des elements commenceants par % , ni leur inentation.
+        %li.public2
+          %h3 Initiation à la programmation web 
+          %p.intro 8h, c'est le temps qu'il vous faudra pour découvrir la programmation web, et bâtir un clone de Twitter.
+          %h4 Ce que vous allez apprendre:
+          %ul
+            %li Programmer une application web
+            %li Mettre en ligne une application web
+            %li Utiliser les outils d'un développeur web
+          %a{:href => "http://simplonco.wufoo.com/forms/q7x4a9/"} S'inscrire
+          %a{:href => "/landing/sc_twitter"} Plus info
+
+        %li
+          %h3 Recruter un développeur 
+          %p.intro 8h, c'est le temps qu'il vous faudra pour découvrir la programmation web, et bâtir un clone de Twitter.
+          %h4 Ce que vous allez apprendre:
+          %ul
+            %li Programmer une application web
+            %li Mettre en ligne une application web
+            %li Utiliser les outils d'un développeur web
+          %a{:href => "http://simplonco.wufoo.com/forms/q7x4a9/"} S'inscrire
+          %a{:href => "/landing/sc_twitter"} Plus info
+
+
+    .large-4.columns.formations-excerpt
+      <!-- Formations 3 jour -->
+      %h2 Formations en 3 jour
+      %ul.formations
+        -# = Pour ajouter l'aperçu d'une formation:
+              * Copiez ce qui suit (A partir du %li jusqu'au saut de ligne suivant).
+              * Collez le à la suite ( après le saut de ligne ).
+              * Editer les contenus sans modififer l'architecture (ne pas changer la
+                place des elements commenceants par % , ni leur inentation.
+        %li.public3.public2
+          %h3 Initiation à la programmation web 
+          %p.intro 8h, c'est le temps qu'il vous faudra pour découvrir la programmation web, et bâtir un clone de Twitter.
+          %h4 Ce que vous allez apprendre:
+          %ul
+            %li Programmer une application web
+            %li Mettre en ligne une application web
+            %li Utiliser les outils d'un développeur web
+          %a{:href => "http://simplonco.wufoo.com/forms/q7x4a9/"} S'inscrire
+          %a{:href => "/landing/sc_twitter"} Plus info
+
+    .large-4.columns.formations-excerpt
+      <!-- Conferences et dataviz -->
+      %h2 Conférences et Dataviz 
+      %ul.formations
+        -# = Pour ajouter l'aperçu d'une formation:
+              * Copiez ce qui suit (A partir du %li jusqu'au saut de ligne suivant).
+              * Collez le à la suite ( après le saut de ligne ).
+              * Editer les contenus sans modififer l'architecture (ne pas changer la
+                place des elements commenceants par % , ni leur inentation.
+        %li.public2.public3
+          %h3 Initiation à la programmation web 
+          %p.intro 8h, c'est le temps qu'il vous faudra pour découvrir la programmation web, et bâtir un clone de Twitter.
+          %h4 Ce que vous allez apprendre:
+          %ul
+            %li Programmer une application web
+            %li Mettre en ligne une application web
+            %li Utiliser les outils d'un développeur web
+          %a{:href => "http://simplonco.wufoo.com/forms/q7x4a9/"} S'inscrire
+          %a{:href => "/landing/sc_twitter"} Plus info
+
+
+  .row
+    %h3.sous-titre Trois approches pédagogiques differentes 
+    .large-4.columns
+      %h4 Approche séquentielle et progressive
+      %p texte
+    .large-4.columns
+      %h4 Approche par la réalisation d'outils
+      %p texte
+    .large-4.columns
+      %h4 Approches pédagogiques scénarisées
+      %p texte
+
+
+
+:javascript
+  $(document).ready(function(){
+    $('.publics > li').on('click',function(){
+      var public = $(this).attr('class');
+      var toshow = $('.formations > li.'+public+':hidden');
+      var tohide = $('.formations > li:not(.'+public+')');
+      tohide.fadeOut(100);
+      toshow.fadeIn(100);
+    });
+  });
