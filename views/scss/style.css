@@ -1,0 +1,96 @@
+
+.subbox{
+  color: white;
+  background: hsl(200,45%,55%);
+  strong { padding: $column-gutter; }
+  h3 { width: 100%; padding: 5% 10%;background:hsl(200,32.5%,44.1%); color: white; }
+  p { padding: 0px $column-gutter 0px $column-gutter; }
+  ul { color: white; width: 90%;padding: $column-gutter; margin-left: 5%; font-size: 14px; }
+  li { margin-bottom: 10px;}
+
+}
+
+.formations-excerpt {
+  position: relative;
+  font-size: 12px;
+  padding: 20px 20px 0px 0px;
+  border-left: 3px solid #E30045;
+}
+
+.formations-excerpt > ul {
+  list-style-type: none;
+}
+
+.formations-excerpt > ul > li {
+  position: relative;
+  margin-bottom: 17px;
+  background-color: #599DC0;
+  padding: 20px 20px 50px 20px;
+}
+
+.formations-excerpt h2 {
+  position: absolute;
+  z-index: 999;
+  top: -5px;
+  left: -10px;
+  font-size: 21px;
+  letter-spacing: -2px;
+  margin: 0;
+  padding: 5px 10px;
+  background-color: #E30045;
+  color: black;
+  transform: rotate(-1deg);
+  -ms-transform: rotate(30deg);
+  /* IE 9 */
+  -webkit-transform: rotate(30deg);
+  /* Safari and Chrome */
+}
+
+.formations-excerpt h3 {
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: white;
+  letter-spacing: -1px;
+}
+
+.formations-excerpt h4{
+  font-size: 12px;
+}
+
+.formations-excerpt a{
+  position: absolute;
+  right: 75px;
+  bottom: 20px;
+  background-color: rgba(0%,0%,0%,1);
+  color: white;
+  text-decoration: none;
+  padding: 3px;
+  font-size: 9px;
+}
+
+.formations-excerpt a:hover{
+  background-color: rgba(0%,0%,0%,.5);
+}
+.formations-excerpt a:last-child{
+  right: 20px;
+}
+.publics, .approche{
+  display: inline-block;
+  list-style-type: none;
+  margin-bottom: 40px;
+}
+
+.publics li, .approche li{
+  float: left;
+  padding: 5px 10px;
+  margin: 0 10px 10px 0;
+  background-color: #D6D6D6;
+  color: #525252;
+}
+
+.publics li:hover, .approche li:hover{
+  color: black;
+  cursor: pointer;
+  background-color: #DDDDDD;
+}
