@@ -41,8 +41,8 @@ end
 
 get %r{/(landing/)?(?<page>.*)} do
   page = params[:page]
-  if File.exists?("./views/#{page}.md")
-    "<div class='row'><div class='large-12 columns'>#{markdown page.to_sym}</div></div>"
+  if File.exists?("./views/#{page}.md") && !File.exists?("./views/#{page}.haml")
+    "#{markdown page.to_sym}"
   else
     haml page.to_sym
   end
