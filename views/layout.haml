@@ -33,6 +33,21 @@
     :javascript
       tumblr = {};
       $(document).ready(function(){
+        $('#slideshow > nav ul li').click(function(){
+          if($(this).hasClass('slide-active')){
+          }else{
+            var index = $('#slideshow > nav ul li').index(this);
+            var old = $('#slideshow > ul li.slide-active');
+            var active = $('#slideshow > ul li').eq(index);
+            old.fadeOut(500);
+            active.fadeIn(500);
+            $('.slide-active').removeClass('slide-active');
+            active.addClass('slide-active');
+            $(this).addClass('slide-active');
+          }
+        });
+
+
         tumblr.collection = new Tumblr({
           hostname: 'simplonco.tumblr.com',
           params: {
@@ -50,27 +65,36 @@
     .contain-to-grid.fixed
       .row
         .large-12
-          %nav.top-bar
-            %ul.title-area
-              / Title Area
-              %li.name
-                %h1
-                  %a{:href => "/"} Simplon.co
-            %section.top-bar-section
-              / Right Nav Section
-              %ul.right
-                %li
-                  %a(href="/formation-6-mois") Formation 6 mois : candidatez !
-                %li
-                  %a(href="/summercamp") Summer Camp
-                %li
-                  %a(href="/offres") Offres B2B
-                %li
-                  %a(href="/events") Events
-                %li
-                  %a(href="/presse") Médias & buzz
-                %li
-                  %a(href="/partenaires") Partenaires
-                %li
-                  %a(href="/en") In English
+          .row
+            %nav.top-bar.large-6.columns.site-title
+              %ul.title-area
+                / Title Area
+                %li.name
+                  %h1
+                    %a{:href => "/"} Simplon.co
+            %div.large-6.columns.newsletter
+              %form{:action => "http://simplon.us7.list-manage.com/subscribe/post?u=5ae60e696c9630563d135f98a&amp;id=2bcfcc8ac5", :method => "post", :name => "mc-embedded-subscribe-form", :novalidate => "", :target => "_blank"}
+                .row
+                  %input#mce-EMAIL{:name => "EMAIL", :placeholder => 'email', :type => "email", :value => ""}
+                  %input.button.small{:name => "subscribe", :type => "submit", :value => "Je m'abonne"}
+
+
+
+          %section.top-bar-section
+            / Right Nav Section
+            %ul.right
+              %li
+                %a(href="/formation-6-mois") Formation 6 mois : candidatez !
+              %li
+                %a(href="/summercamp") Summer Camp
+              %li
+                %a(href="/offres") Offres B2B
+              %li
+                %a(href="/events") Events
+              %li
+                %a(href="/presse") Médias & buzz
+              %li
+                %a(href="/partenaires") Partenaires
+              %li
+                %a(href="/en") In English
     = yield

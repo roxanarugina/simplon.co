@@ -387,4 +387,84 @@ iframe { width: 100% }
   background-color: #DDDDDD;
 }
 
+#slideshow{
+  position: relative;
+  height: 450px;
+  width: 100%;
+}
 
+#slideshow ul{
+  list-style-type: none;
+
+}
+
+#slideshow > ul li{
+  position: absolute;
+  width: 100%;
+  display: none;
+}
+
+#slideshow > ul li.slide-active{
+  display: block;
+}
+
+#slideshow > ul li .image{
+  height: 400px;
+  overflow: hidden;
+}
+
+#slideshow > ul li img{
+  width: 100%;
+}
+
+#slideshow > ul li .caption{
+  position: absolute;
+  bottom: 0px;
+  left: 0;
+  background-color: rgba(0,0,0,.85);
+  width: 100%;
+  color: white;
+  padding: 10px 20px 20px 20px;
+}
+
+#slideshow > ul li .caption h3{
+  color: white;
+  margin: 0;
+}
+
+#slideshow > ul li .caption p{
+  margin: 0;
+}
+#slideshow nav{
+  position: absolute;
+  bottom: -10px;
+  height: 50px;
+  width: 100%;
+}
+
+#slideshow nav ul li{
+  display: inline-block;
+  margin: 0 5px 0 0;
+  padding: 5px;
+  color: white;
+  font-size: 18px;
+  background-color: rgba(0,0,0,.85);
+}
+
+.newsletter input:first-child{
+  width: 200px;
+  float: left;
+  margin-right: 5px;
+  height: 35px;  
+}
+
+.newsletter{
+  position: relative;
+}
+
+.newsletter .row{
+  position: absolute;
+  right: 0;
+  padding-right: 40px;
+  top: 5px;
+}

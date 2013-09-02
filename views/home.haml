@@ -10,10 +10,48 @@
         et soutenez-nous sur
         %a{:href => "http://fr.ulule.com/simplonco"} Ulule !
 
-      %img(src="https://dl.dropboxusercontent.com/u/62216/simplon.co%20photos/PANO_20130603_193853.jpg")
+  .large-12.columns
+    %div#slideshow
+      %ul
+        /* ---------------------------Debut du slideshow --------------------------------*/
+        /* Pour ajouter un element au slideshow, copiez collez à la suite d'ici jusqu'au **STOP** */
+        %li.slide-active
+          %div.image
+            %img(src="https://dl-web.dropbox.com/get/simplon/photos-videos/formations/copyright-aurelien-dailly3.jpg?w=AACRzJGDz2PXrvsqi0xd7hKNcY_nFyD6IfJ8og9t0JznqQ")
+          %div.caption
+            %h3 Jeunes motivés : candidatez!
+            %p 
+              Vous avez un projet ? Le code vous permettrait de le réaliser ? Vous voulez apprendre à faire des applications web, à créer une startup sociale ? Candidatez à
+              %a{:href => "/formation-6-mois"} la formation de 6 mois
+              /* ---------------------- **STOP** ----------------- */
 
-      %p.intro{:lang => "fr"} Située à Montreuil (93), Simplon.co est une fabrique accélérée de développeurs web, vouée à accompagner des porteurs de projets numériques et prioritairement tournée vers les débutants en informatique et les profils sous-représentés dans l'entreprenariat et le web (les filles et les jeunes des quartiers populaires notamment), Simplon.co rémunérera ceux dont la situation financière pourrait s'avérer bloquante.
-      %p.intro Simplon.co is a dev bootcamp and startup factory where we empower entrepreneur-programmers. Every 6 months, we train underprivileged and smart novices in web development, and help them build web startups for social good.tags
+        %li
+          %div.image
+            %img(src="https://dl-web.dropbox.com/get/simplon/photos-videos/simploffs/1/IMG_20130826_190218.jpg?w=AAAIyv7iO_KoCOMHOpIb2FbY3MBrAPnYvyrFIAxzRlfyOg")
+          %div.caption
+            %h3 Participez à nos événements
+            %p
+              Tenez-vous au courant et inscrivez-vous à nos prochains
+              %a{:href => "/events"} événements
+              !
+        %li
+          %div.image
+            %img(src="https://dl-web.dropbox.com/get/simplon/photos-videos/shooting/low-res/IMG_2923.JPG?w=AADcKYmEeURwBXP4wt2M0lptUYiCs9rYqsYyxBiRsTIRbA")
+          %div.caption
+            %h3 Soutenez-nous!
+            %p
+              Plus que quelques jours pour apporter votre soutien via 
+              %a{:href => "http://fr.ulule.com/simplonco/"} notre campagne de crowdfunding.
+
+              /* --------------------Fin du slideshow----------------------------*/
+              /* Navigation du slideshow, ajoutez une titre pour le menu de navigation du slideshow, en conservant l'ordre des titres et des elements du slideshow */
+      %nav
+        %ul
+          %li.slide-active Jeunes motivés: candidatez!
+          %li Participez à nos événements
+          %li Soutenez-nous! 
+    %p.intro{:lang => "fr"} Située à Montreuil (93), Simplon.co est une fabrique accélérée de développeurs web, vouée à accompagner des porteurs de projets numériques et prioritairement tournée vers les débutants en informatique et les profils sous-représentés dans l'entreprenariat et le web (les filles et les jeunes des quartiers populaires notamment), Simplon.co rémunérera ceux dont la situation financière pourrait s'avérer bloquante.
+    %p.intro Simplon.co is a dev bootcamp and startup factory where we empower entrepreneur-programmers. Every 6 months, we train underprivileged and smart novices in web development, and help them build web startups for social good.tags
     %p.tags
       %span.tag #dojo
       %span.tag #education
