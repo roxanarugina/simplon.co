@@ -82,19 +82,16 @@
 
           %section.top-bar-section
             / Right Nav Section
-            %ul.right
+            %ul
               %li
                 %a(href="/formation-6-mois") Formation 6 mois : candidatez !
-              %li
-                %a(href="/summercamp") Summer Camp
               %li
                 %a(href="/offres") Offres B2B
               %li
                 %a(href="/events") Events
               %li
-                %a(href="/presse") Médias & buzz
-              %li
                 %a(href="/partenaires") Partenaires
               %li
                 %a(href="/en") In English
-    = yield
+    %div#main
+      = yield

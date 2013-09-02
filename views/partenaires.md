@@ -1,5 +1,6 @@
 Partenaires
 =============
+On parle de nous dans la presse: [Médias & Buzz](/presse)
 
 ![Ils nous soutiennent](https://dl.dropboxusercontent.com/u/183631273/partenaires-simplon.png)
 

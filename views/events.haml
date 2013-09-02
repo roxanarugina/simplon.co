@@ -1,6 +1,54 @@
 .row
   .large-12.columns
-    %h1 Evénements
+    %div#slideshow
+      %ul
+        /* ---------------------------Debut du slideshow --------------------------------*/
+        %li.slide-active
+          %div.image
+            %img(src="http://www.orangepartner.com/sites/default/files/pictures/OP-RSC-illustration_light_background-01.png")
+          %div.caption
+            %h3 Hackathon Orange
+            %p
+              Laissez-vous inspirer par les capacités de joyn, et utilisez les pour créer de véritables applications et services en seulement 48 heures!
+              %a{:href => "http://www.orangepartner.com/articles/paris-berlin-hackathon#.UiSeJbzzsal"} Tous les details
+
+        %li
+          %div.image
+            %img(src="http://www.wired.com/images_blogs/photos/uncategorized/2008/06/20/mark1.jpg")
+          %div.caption
+            %h3 Conférence: La programmation et ses langages, toute une histoire!
+            %p
+              L'histoire des langages de programmation, un conte singulier sur la manière dont les hommes ont conçu des langages pour parler aux machines avec des succès mais aussi des échecs #fails.
+              %a{:href => "http://www.jpds.fr/workshops/simplon-co"} Tous les details
+
+        %li
+          %div.image
+            %img(src="http://mrickert.com/wp-content/uploads/2013/04/rasppi.jpg")
+          %div.caption
+            %h3 Meet-up: Raspberry Pi
+            %p
+              Curieux, amoureux, du micro(vraiment)-ordinateur Raspberry Pi, de GNU/Linux, réunissons-nous pour partager nos idées et nos projets réalisés avec ce merveilleux petit engin.
+              %a{:href => "http://www.meetup.com/Raspberry-Pi-Paris/"} Tous les details
+
+        %li
+          %div.image
+            %img(src="https://dl.dropboxusercontent.com/u/62216/simplon.co%20photos/summercamp.jpg")
+          %div.caption
+            %h3 Summer Camp
+            %p
+              Cet été, devenez techno-créatifs, apprivoisez le pouvoir du code, Simplon.co fait son Summer Camp !
+              %a{:href => "/summercamp"} Tous les details
+
+
+
+      %nav
+        %ul
+          %li.slide-active Hackathon Orange
+          %li Histoire de la prgrammation
+          %li Meet-up Raspberry Pi
+          %li Summer Camp
+
+  .large-12.columns
     %p
       Simplon.co, c'est aussi un lieu magique, une ancienne fabrique de latex devenue studio de cinéma 
       %a{:href =>"http://www.youtube.com/watch?v=Eb6VGdPGVO8"} la chocolaterie des Emotifs Anonymes avec Poelevorde et Carré

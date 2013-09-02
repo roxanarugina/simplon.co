@@ -391,6 +391,7 @@ iframe { width: 100% }
   position: relative;
   height: 450px;
   width: 100%;
+  margin-bottom: 20px;
 }
 
 #slideshow ul{
@@ -451,6 +452,11 @@ iframe { width: 100% }
   background-color: rgba(0,0,0,.85);
 }
 
+#slideshow nav ul li:hover{
+  cursor: pointer;
+  background-color: rgba(0,0,0,.55);
+}
+
 .newsletter input:first-child{
   width: 200px;
   float: left;
@@ -467,4 +473,8 @@ iframe { width: 100% }
   right: 0;
   padding-right: 40px;
   top: 5px;
+}
+
+#main{
+    margin-top: 50px;
 }
